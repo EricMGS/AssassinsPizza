@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assassin\'s Pizza</string>
+    <string name="sabor">Sabor</string>
+    <string name="tamanho">Tamanho</string>
+    <string name="pequena">Pequena(4 fatias)</string>
+    <string name="media">Média (8 fatias)</string>
+    <string name="grande">Grande(12 fatias)</string>
+    <string name="valor">Valor:</string>
+    <string name="pizzaInteira">Inteira</string>
+    <string name="pizzaMeia">Meio a meio</string>
+</resources>
